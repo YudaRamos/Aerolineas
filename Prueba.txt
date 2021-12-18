@@ -1,1 +1,2 @@
 Esto es una prueba
+esta es una prueba de hacer git merge sin --no--ff
